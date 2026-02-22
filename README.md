@@ -1,5 +1,3 @@
-1. Profile README (Ankith1216/README.md)
-
 # Ankith CH — Full-Stack Developer
 
 I build SaaS products end to end — from auth and billing to deployment.
