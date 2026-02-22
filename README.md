@@ -3,7 +3,7 @@
 I build SaaS products end to end — from auth and billing to deployment.
 Currently available for freelance projects.
 
-**ankithch.dev** · ankithch01@gmail.com
+**ankithch.dev** · ankithc3@gmail.com
 
 ---
 
