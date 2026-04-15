@@ -1,7 +1,7 @@
-# Ankith CH — Full-Stack Developer
+# Ankith CH: Full-Stack Developer
 
-I build SaaS products end to end — from auth and billing to deployment.
 Currently available for freelance projects.
+I build SaaS products end to end, from auth and billing to deployment.
 
 **ankithch.dev** · ankithc3@gmail.com
 
@@ -9,13 +9,13 @@ Currently available for freelance projects.
 
 ## What I work with
 
-**Frontend** — Next.js, React, TypeScript, Tailwind CSS, Shadcn UI
-**Backend** — Node.js, FastAPI, Python, oRPC, Hono, REST APIs
-**Database** — PostgreSQL, Prisma, Drizzle ORM
-**Auth** — Better Auth, Clerk, OAuth, Passkeys, 2FA
-**Payments** — Stripe, Stripe Connect
-**AI** — Vercel AI SDK, OpenAI, RAG pipelines, LangChain
-**Infra** — Vercel, AWS S3, Docker, n8n
+**Frontend**: Next.js, React, TypeScript, Tailwind CSS, Shadcn UI
+**Backend**: Node.js, FastAPI, Python, oRPC, Hono, REST APIs
+**Database**: PostgreSQL, Prisma, Drizzle ORM
+**Auth**: Better Auth, Clerk, OAuth, Passkeys, 2FA
+**Payments**: Stripe, Stripe Connect
+**AI**: Vercel AI SDK, OpenAI, RAG pipelines, LangChain
+**Infra**: Vercel, AWS S3, Docker, n8n
 
 ---
 
